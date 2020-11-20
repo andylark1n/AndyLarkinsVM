@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\personal coding\KoiVM-1-master\KoiVM.Runtime\obj\Debug\Runtime.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\personal coding\KoiVM-1-master\bin\Runtime.dll
+C:\Users\admin\Desktop\personal coding\KoiVM-1-master\bin\Runtime.pdb
+C:\Users\admin\Desktop\personal coding\KoiVM-1-master\KoiVM.Runtime\obj\Debug\Runtime.dll
+C:\Users\admin\Desktop\personal coding\KoiVM-1-master\KoiVM.Runtime\obj\Debug\Runtime.pdb
+C:\Users\admin\Desktop\personal coding\KoiVM-1-master\KoiVM.Runtime\obj\Debug\Runtime.csprojAssemblyReference.cache
